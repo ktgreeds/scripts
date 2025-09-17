@@ -1,0 +1,160 @@
+input /echo ＋　火　＋
+alias Mag_101-1 input /ma ファイア              <stnpc>
+alias Mag_102-1 input /ma ファイアII            <stnpc>
+alias Mag_103-1 input /ma ファイアIII           <stnpc>
+alias Mag_104-1 input /ma ファイアIV            <stnpc>
+alias Mag_105-1 input /ma ファイアV             <stnpc>
+alias Mag_106-1 input /ma ファイアVI            <stnpc>
+alias Mag_107-1 input /ma フレア                <stnpc>
+alias Mag_108-1 input /ma フレアII              <stnpc>
+alias Mag_111-1 input /ma ファイガ              <stnpc>
+alias Mag_112-1 input /ma ファイガII            <stnpc>
+alias Mag_113-1 input /ma ファイガIII           <stnpc>
+alias Mag_114-1 input /ma ファイガIV            <stnpc>
+alias Mag_115-1 input /ma ファイガV             <stnpc>
+alias Mag_116-1 input /ma ファイジャ            <stnpc>
+alias Mag_117-1 input /ma ファイラ              <stnpc>
+alias Mag_118-1 input /ma ファイラII            <stnpc>
+alias Mag_119-1 input /ma ファイラIII           <stnpc>
+alias Mag_201-1 input /ma エンファイア          <stpc>
+alias Mag_202-1 input /ma エンファイアII        <stpc>
+alias Mag_301-1 input /ma 火門の計              <stnpc>
+alias Mag_302-1 input /ma 火門の計II            <stnpc>
+alias Mag_303-1 input /ma 熱波の陣              <stpc>
+alias Mag_304-1 input /ma 熱波の陣II            <stpc>
+alias Mag_401-1 input /ma 炎のスレノディ        <stnpc>
+alias Mag_402-1 input /ma 炎のスレノディII      <stnpc>
+alias Mag_403-1 input /ma 耐火カロル第一楽章    <stpc>
+alias Mag_404-1 input /ma 耐火カロル第二楽章    <stpc>
+alias Mag_501-1 input /ma バファイ              <stpc>
+alias Mag_502-1 input /ma バファイラ            <stpc>
+alias Mag_503-1 input /ma バパライズ            <stpc>
+alias Mag_504-1 input /ma バパライラ            <stpc>
+alias Mag_601-1 input /ma バブリザ              <stpc>
+alias Mag_701-1 input /ja ファイアショット      <stnpc>
+alias Mag_801-1 input /ja イグニス              <stpc>
+
+alias Mag_101-2 input /ma ファイア              <t>
+alias Mag_102-2 input /ma ファイアII            <t>
+alias Mag_103-2 input /ma ファイアIII           <t>
+alias Mag_104-2 input /ma ファイアIV            <t>
+alias Mag_105-2 input /ma ファイアV             <t>
+alias Mag_106-2 input /ma ファイアVI            <t>
+alias Mag_107-2 input /ma フレア                <t>
+alias Mag_108-2 input /ma フレアII              <t>
+alias Mag_111-2 input /ma ファイガ              <t>
+alias Mag_112-2 input /ma ファイガII            <t>
+alias Mag_113-2 input /ma ファイガIII           <t>
+alias Mag_114-2 input /ma ファイガIV            <t>
+alias Mag_115-2 input /ma ファイガV             <t>
+alias Mag_116-2 input /ma ファイジャ            <t>
+alias Mag_117-2 input /ma ファイラ              <t>
+alias Mag_118-2 input /ma ファイラII            <t>
+alias Mag_119-2 input /ma ファイラIII           <t>
+alias Mag_201-2 input /ma エンファイア          <me>
+alias Mag_202-2 input /ma エンファイアII        <me>
+alias Mag_301-2 input /ma 火門の計              <t>
+alias Mag_302-2 input /ma 火門の計II            <t>
+alias Mag_303-2 input /ma 熱波の陣              <me>
+alias Mag_304-2 input /ma 熱波の陣II            <me>
+alias Mag_401-2 input /ma 炎のスレノディ        <t>
+alias Mag_402-2 input /ma 炎のスレノディII      <t>
+alias Mag_403-2 input /ma 耐火カロル第一楽章    <me>
+alias Mag_404-2 input /ma 耐火カロル第二楽章    <me>
+alias Mag_501-2 input /ma バファイ              <me>
+alias Mag_502-2 input /ma バファイラ            <me>
+alias Mag_503-2 input /ma バパライズ            <me>
+alias Mag_504-2 input /ma バパライラ            <me>
+alias Mag_601-2 input /ma バブリザ              <me>
+alias Mag_701-2 input /ja ファイアショット      <t>
+alias Mag_801-2 input /ja イグニス              <me>
+
+alias Mag_101-3 input /ma ファイア              <lastst>
+alias Mag_102-3 input /ma ファイアII            <lastst>
+alias Mag_103-3 input /ma ファイアIII           <lastst>
+alias Mag_104-3 input /ma ファイアIV            <lastst>
+alias Mag_105-3 input /ma ファイアV             <lastst>
+alias Mag_106-3 input /ma ファイアVI            <lastst>
+alias Mag_107-3 input /ma フレア                <lastst>
+alias Mag_108-3 input /ma フレアII              <lastst>
+alias Mag_111-3 input /ma ファイガ              <lastst>
+alias Mag_112-3 input /ma ファイガII            <lastst>
+alias Mag_113-3 input /ma ファイガIII           <lastst>
+alias Mag_114-3 input /ma ファイガIV            <lastst>
+alias Mag_115-3 input /ma ファイガV             <lastst>
+alias Mag_116-3 input /ma ファイジャ            <lastst>
+alias Mag_117-3 input /ma ファイラ              <lastst>
+alias Mag_118-3 input /ma ファイラII            <lastst>
+alias Mag_119-3 input /ma ファイラIII           <lastst>
+alias Mag_301-3 input /ma 火門の計              <lastst>
+alias Mag_302-3 input /ma 火門の計II            <lastst>
+alias Mag_401-3 input /ma 炎のスレノディ        <lastst>
+alias Mag_402-3 input /ma 炎のスレノディII      <lastst>
+alias Mag_701-3 input /ja ファイアショット      <lastst>
+
+alias Mag_101-4 send @others /ma ファイア           <tid>
+alias Mag_102-4 send @others /ma ファイアII         <tid>
+alias Mag_103-4 send @others /ma ファイアIII        <tid>
+alias Mag_104-4 send @others /ma ファイアIV         <tid>
+alias Mag_105-4 send @others /ma ファイアV          <tid>
+alias Mag_106-4 send @others /ma ファイアVI         <tid>
+alias Mag_107-4 send @others /ma フレア             <tid>
+alias Mag_108-4 send @others /ma フレアII           <tid>
+alias Mag_111-4 send @others /ma ファイガ           <tid>
+alias Mag_112-4 send @others /ma ファイガII         <tid>
+alias Mag_113-4 send @others /ma ファイガIII        <tid>
+alias Mag_114-4 send @others /ma ファイガIV         <tid>
+alias Mag_115-4 send @others /ma ファイガV          <tid>
+alias Mag_116-4 send @others /ma ファイジャ         <tid>
+alias Mag_117-4 send @others /ma ファイラ           <tid>
+alias Mag_118-4 send @others /ma ファイラII         <tid>
+alias Mag_119-4 send @others /ma ファイラIII        <tid>
+alias Mag_301-4 send @others /ma 火門の計           <tid>
+alias Mag_302-4 send @others /ma 火門の計II         <tid>
+alias Mag_401-4 send @others /ma 炎のスレノディ     <tid>
+alias Mag_402-4 send @others /ma 炎のスレノディII   <tid>
+alias Mag_701-4 send @others /ja ファイアショット   <tid>
+
+--震天動地連携共通
+alias Mag_1000 input /ja 震天動地の章           <me>
+alias Mag_1001 input /ja 気炎万丈の章           <me>
+alias Mag_1002 gs c sc start 溶解 ①;
+alias Mag_1003 gs c sc end 溶解 ②;
+alias Mag_1004 gs c sc start 核熱 ①;
+alias Mag_1005 gs c sc end 核熱 ②;
+alias Mag_1006 gs c sc end 核熱 ③;
+
+--LV1震天動地連携定義
+alias Mag_1011-1 input /ma ストーン             <stnpc>;
+alias Mag_1012-1 input /ma 火門の計             <stnpc>;
+
+alias Mag_1011-2 input /ma ストーン             <t>;
+alias Mag_1012-2 input /ma 火門の計             <t>;
+
+alias Mag_1011-3 input /ma ストーン             <lastst>;
+alias Mag_1012-3 input /ma 火門の計             <lastst>;
+
+alias Mag_1011-4 send @others /ma ストーン         <tid>;
+alias Mag_1012-4 send @others /ma 火門の計         <tid>;
+
+
+--LV2震天動地連携定義
+alias Mag_1013-1 input /ma ファイア               <stnpc>;
+alias Mag_1014-1 input /ma 雷門の計               <stnpc>;
+
+alias Mag_1013-2 input /ma ファイア               <t>;
+alias Mag_1014-2 input /ma 雷門の計               <t>;
+
+alias Mag_1013-3 input /ma ファイア               <lastst>;
+alias Mag_1014-3 input /ma 雷門の計               <lastst>;
+
+alias Mag_1013-4 send @others /ma ファイア           <tid>;
+alias Mag_1014-4 send @others /ma 雷門の計           <tid>;
+
+--常用
+alias Mag_1021 Mag_1011-1
+alias Mag_1022 Mag_1002
+alias Mag_1023 Mag_1012-3
+alias Mag_1024 Mag_1003
+alias Mag_1025 Mag_1014-3
+alias Mag_1026 Mag_1006

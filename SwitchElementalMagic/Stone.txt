@@ -1,0 +1,158 @@
+input /echo ＋　土　＋
+alias Mag_101-1 input /ma ストーン              <stnpc>
+alias Mag_102-1 input /ma ストーンII            <stnpc>
+alias Mag_103-1 input /ma ストーンIII           <stnpc>
+alias Mag_104-1 input /ma ストーンIV            <stnpc>
+alias Mag_105-1 input /ma ストーンV             <stnpc>
+alias Mag_106-1 input /ma ストーンVI            <stnpc>
+alias Mag_107-1 input /ma クエイク              <stnpc>
+alias Mag_108-1 input /ma クエイクII            <stnpc>
+alias Mag_111-1 input /ma ストンガ              <stnpc>
+alias Mag_112-1 input /ma ストンガII            <stnpc>
+alias Mag_113-1 input /ma ストンガIII           <stnpc>
+alias Mag_114-1 input /ma ストンガIV            <stnpc>
+alias Mag_115-1 input /ma ストンガV             <stnpc>
+alias Mag_116-1 input /ma ストンジャ            <stnpc>
+alias Mag_117-1 input /ma ストンラ              <stnpc>
+alias Mag_118-1 input /ma ストンラII            <stnpc>
+alias Mag_119-1 input /ma ストンラIII           <stnpc>
+alias Mag_201-1 input /ma エンストーン          <stpc>
+alias Mag_202-1 input /ma エンストーンII        <stpc>
+alias Mag_301-1 input /ma 土門の計              <stnpc>
+alias Mag_302-1 input /ma 土門の計II            <stnpc>
+alias Mag_303-1 input /ma 砂塵の陣              <stpc>
+alias Mag_304-1 input /ma 砂塵の陣II            <stpc>
+alias Mag_401-1 input /ma 土のスレノディ        <stnpc>
+alias Mag_402-1 input /ma 土のスレノディII      <stnpc>
+alias Mag_403-1 input /ma 耐震カロル第一楽章    <stpc>
+alias Mag_404-1 input /ma 耐震カロル第二楽章    <stpc>
+alias Mag_501-1 input /ma バストン              <stpc>
+alias Mag_502-1 input /ma バストンラ            <stpc>
+alias Mag_503-1 ;
+alias Mag_504-1 ;
+alias Mag_601-1 input /ma バサンダ              <stpc>
+alias Mag_701-1 input /ja アースショット        <stnpc>
+alias Mag_801-1 input /ja テッルス              <stpc>
+
+alias Mag_101-2 input /ma ストーン              <t>
+alias Mag_102-2 input /ma ストーンII            <t>
+alias Mag_103-2 input /ma ストーンIII           <t>
+alias Mag_104-2 input /ma ストーンIV            <t>
+alias Mag_105-2 input /ma ストーンV             <t>
+alias Mag_106-2 input /ma ストーンVI            <t>
+alias Mag_107-2 input /ma クエイク              <t>
+alias Mag_108-2 input /ma クエイクII            <t>
+alias Mag_111-2 input /ma ストンガ              <t>
+alias Mag_112-2 input /ma ストンガII            <t>
+alias Mag_113-2 input /ma ストンガIII           <t>
+alias Mag_114-2 input /ma ストンガIV            <t>
+alias Mag_115-2 input /ma ストンガV             <t>
+alias Mag_116-2 input /ma ストンジャ            <t>
+alias Mag_117-2 input /ma ストンラ              <t>
+alias Mag_118-2 input /ma ストンラII            <t>
+alias Mag_119-2 input /ma ストンラIII           <t>
+alias Mag_201-2 input /ma エンストーン          <me>
+alias Mag_202-2 input /ma エンストーンII        <me>
+alias Mag_301-2 input /ma 土門の計              <t>
+alias Mag_302-2 input /ma 土門の計II            <t>
+alias Mag_303-2 input /ma 砂塵の陣              <me>
+alias Mag_304-2 input /ma 砂塵の陣II            <me>
+alias Mag_401-2 input /ma 土のスレノディ        <t>
+alias Mag_402-2 input /ma 土のスレノディII      <t>
+alias Mag_403-2 input /ma 耐震カロル第一楽章    <me>
+alias Mag_404-2 input /ma 耐震カロル第二楽章    <me>
+alias Mag_501-2 input /ma バストン              <me>
+alias Mag_502-2 input /ma バストンラ            <me>
+alias Mag_503-2 ;
+alias Mag_504-2 ;
+alias Mag_601-2 input /ma バサンダ              <me>
+alias Mag_701-2 input /ja アースショット        <t>
+alias Mag_801-2 input /ja テッルス              <me>
+
+alias Mag_101-3 input /ma ストーン              <lastst>
+alias Mag_102-3 input /ma ストーンII            <lastst>
+alias Mag_103-3 input /ma ストーンIII           <lastst>
+alias Mag_104-3 input /ma ストーンIV            <lastst>
+alias Mag_105-3 input /ma ストーンV             <lastst>
+alias Mag_106-3 input /ma ストーンVI            <lastst>
+alias Mag_107-3 input /ma クエイク              <lastst>
+alias Mag_108-3 input /ma クエイクII            <lastst>
+alias Mag_111-3 input /ma ストンガ              <lastst>
+alias Mag_112-3 input /ma ストンガII            <lastst>
+alias Mag_113-3 input /ma ストンガIII           <lastst>
+alias Mag_114-3 input /ma ストンガIV            <lastst>
+alias Mag_115-3 input /ma ストンガV             <lastst>
+alias Mag_116-3 input /ma ストンジャ            <lastst>
+alias Mag_117-3 input /ma ストンラ              <lastst>
+alias Mag_118-3 input /ma ストンラII            <lastst>
+alias Mag_119-3 input /ma ストンラIII           <lastst>
+alias Mag_301-3 input /ma 土門の計              <lastst>
+alias Mag_302-3 input /ma 土門の計II            <lastst>
+alias Mag_401-3 input /ma 土のスレノディ        <lastst>
+alias Mag_402-3 input /ma 土のスレノディII      <lastst>
+alias Mag_701-3 input /ja アースショット        <lastst>
+
+alias Mag_101-4 send @others /ma ストーン          <tid>
+alias Mag_102-4 send @others /ma ストーンII        <tid>
+alias Mag_103-4 send @others /ma ストーンIII       <tid>
+alias Mag_104-4 send @others /ma ストーンIV        <tid>
+alias Mag_105-4 send @others /ma ストーンV         <tid>
+alias Mag_106-4 send @others /ma ストーンVI        <tid>
+alias Mag_107-4 send @others /ma クエイク          <tid>
+alias Mag_108-4 send @others /ma クエイクII        <tid>
+alias Mag_111-4 send @others /ma ストンガ          <tid>
+alias Mag_112-4 send @others /ma ストンガII        <tid>
+alias Mag_113-4 send @others /ma ストンガIII       <tid>
+alias Mag_114-4 send @others /ma ストンガIV        <tid>
+alias Mag_115-4 send @others /ma ストンガV         <tid>
+alias Mag_116-4 send @others /ma ストンジャ        <tid>
+alias Mag_117-4 send @others /ma ストンラ          <tid>
+alias Mag_118-4 send @others /ma ストンラII        <tid>
+alias Mag_119-4 send @others /ma ストンラIII       <tid>
+alias Mag_301-4 send @others /ma 土門の計          <tid>
+alias Mag_302-4 send @others /ma 土門の計II        <tid>
+alias Mag_402-4 send @others /ma 土のスレノディII  <tid>
+alias Mag_701-4 send @others /ja アースショット    <tid>
+
+--震天動地連携共通
+alias Mag_1000 input /ja 震天動地の章           <me>
+alias Mag_1001 input /ja 震天動地の章           <me>
+alias Mag_1002 gs c sc start 切断 ①;
+alias Mag_1003 gs c sc end 切断 ②;
+alias Mag_1004 gs c sc start 重力 ①;
+alias Mag_1005 gs c sc end 重力 ②;
+alias Mag_1006 ;
+
+--LV1震天動地連携定義
+alias Mag_1011-1 input /ma エアロ               <stnpc>;
+alias Mag_1012-1 input /ma 土門の計             <stnpc>;
+
+alias Mag_1011-2 input /ma エアロ               <t>;
+alias Mag_1012-2 input /ma 土門の計             <t>;
+
+alias Mag_1011-3 input /ma エアロ               <lastst>;
+alias Mag_1012-3 input /ma 土門の計             <lastst>;
+
+alias Mag_1011-4 send @others /ma エアロ           <tid>;
+alias Mag_1012-4 send @others /ma 土門の計         <tid>;
+
+--LV2震天動地連携定義
+alias Mag_1013-1 input /ma エアロ               <stnpc>;
+alias Mag_1014-1 input /ma 闇門の計             <stnpc>;
+
+alias Mag_1013-2 input /ma エアロ               <t>;
+alias Mag_1014-2 input /ma 闇門の計             <t>;
+
+alias Mag_1013-3 input /ma エアロ               <lastst>;
+alias Mag_1014-3 input /ma 闇門の計             <lastst>;
+
+alias Mag_1013-4 send @others /ma エアロ           <tid>;
+alias Mag_1014-4 send @others /ma 闇門の計         <tid>;
+
+--常用
+alias Mag_1021 Mag_1013-1
+alias Mag_1022 Mag_1004
+alias Mag_1023 Mag_1014-3
+alias Mag_1024 Mag_1005
+alias Mag_1025 ;
+alias Mag_1026 ;

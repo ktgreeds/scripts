@@ -1,0 +1,86 @@
+input /echo ＋　闇　＋
+alias Mag_301-1 input /ma 闇門の計              <stnpc>
+alias Mag_302-1 input /ma 闇門の計II            <stnpc>
+alias Mag_303-1 input /ma 妖霧の陣              <stpc>
+alias Mag_304-1 input /ma 妖霧の陣II            <stpc>
+alias Mag_401-1 input /ma 闇のスレノディ        <stnpc>
+alias Mag_402-1 input /ma 闇のスレノディII      <stnpc>
+alias Mag_403-1 input /ma 耐闇カロル第一楽章    <stpc>
+alias Mag_404-1 input /ma 耐闇カロル第二楽章    <stpc>
+alias Mag_501-1 ;
+alias Mag_502-1 ;
+alias Mag_503-1 ;
+alias Mag_504-1 ;
+alias Mag_701-1 input /ja ダークショット        <stnpc>
+alias Mag_801-1 input /ja テネブレイ            <stpc>
+
+alias Mag_301-2 input /ma 闇門の計              <t>
+alias Mag_302-2 input /ma 闇門の計II            <t>
+alias Mag_303-2 input /ma 妖霧の陣              <me>
+alias Mag_304-2 input /ma 妖霧の陣II            <me>
+alias Mag_401-2 input /ma 闇のスレノディ        <t>
+alias Mag_402-2 input /ma 闇のスレノディII      <t>
+alias Mag_403-2 input /ma 耐闇カロル第一楽章    <me>
+alias Mag_404-2 input /ma 耐闇カロル第二楽章    <me>
+alias Mag_501-2 ;
+alias Mag_502-2 ;
+alias Mag_503-2 ;
+alias Mag_504-2 ;
+alias Mag_701-2 input /ja ダークショット        <t>
+alias Mag_801-2 input /ja テネブレイ            <me>
+
+alias Mag_301-3 input /ma 闇門の計              <lastst>
+alias Mag_302-3 input /ma 闇門の計II            <lastst>
+alias Mag_401-3 input /ma 闇のスレノディ        <lastst>
+alias Mag_402-3 input /ma 闇のスレノディII      <lastst>
+alias Mag_701-3 input /ja ダークショット        <lastst>
+
+alias Mag_301-4 send @others /ma 闇門の計          <tid>
+alias Mag_302-4 send @others /ma 闇門の計II        <tid>
+alias Mag_401-4 send @others /ma 闇のスレノディ    <tid>
+alias Mag_402-4 send @others /ma 闇のスレノディII  <tid>
+alias Mag_701-4 send @others /ja ダークショット    <tid>
+
+--震天動地連携共通
+alias Mag_1000 input /ja 震天動地の章           <me>
+alias Mag_1001 input /ja 気炎万丈の章           <me>
+alias Mag_1002 gs c sc start 収縮 ①;
+alias Mag_1003 gs c sc end 収縮 ②;
+alias Mag_1004 gs c sc start 重力 ①;
+alias Mag_1005 gs c sc end 重力 ②;
+alias Mag_1006 ;
+
+--LV1震天動地連携定義
+alias Mag_1011-1 input /ma ブリザド             <stnpc>;
+alias Mag_1012-1 input /ma 闇門の計             <stnpc>;
+
+alias Mag_1011-2 input /ma ブリザド             <t>;
+alias Mag_1012-2 input /ma 闇門の計             <t>;
+
+alias Mag_1011-3 input /ma ブリザド             <lastst>;
+alias Mag_1012-3 input /ma 闇門の計             <lastst>;
+
+alias Mag_1011-4 send @others /ma ブリザド         <tid>;
+alias Mag_1012-4 send @others /ma 闇門の計         <tid>;
+
+
+--LV2震天動地連携定義
+alias Mag_1013-1 input /ma エアロ                 <stnpc>;
+alias Mag_1014-1 input /ma 闇門の計               <stnpc>;
+
+alias Mag_1013-2 input /ma エアロ                 <t>;
+alias Mag_1014-2 input /ma 闇門の計               <t>;
+
+alias Mag_1013-3 input /ma エアロ                 <lastst>;
+alias Mag_1014-3 input /ma 闇門の計               <lastst>;
+
+alias Mag_1013-4 send @others /ma エアロ             <tid>;
+alias Mag_1014-4 send @others /ma 闇門の計           <tid>;
+
+--常用
+alias Mag_1021 Mag_1013-1
+alias Mag_1022 Mag_1004
+alias Mag_1023 Mag_1014-3
+alias Mag_1024 Mag_1005
+alias Mag_1025 ;
+alias Mag_1026 ;

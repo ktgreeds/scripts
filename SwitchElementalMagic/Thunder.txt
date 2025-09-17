@@ -1,0 +1,158 @@
+input /echo ＋　雷　＋
+alias Mag_101-1 input /ma サンダー              <stnpc>
+alias Mag_102-1 input /ma サンダーII            <stnpc>
+alias Mag_103-1 input /ma サンダーIII           <stnpc>
+alias Mag_104-1 input /ma サンダーIV            <stnpc>
+alias Mag_105-1 input /ma サンダーV             <stnpc>
+alias Mag_106-1 input /ma サンダーVI            <stnpc>
+alias Mag_107-1 input /ma バースト              <stnpc>
+alias Mag_108-1 input /ma バーストII            <stnpc>
+alias Mag_111-1 input /ma サンダガ              <stnpc>
+alias Mag_112-1 input /ma サンダガII            <stnpc>
+alias Mag_113-1 input /ma サンダガIII           <stnpc>
+alias Mag_114-1 input /ma サンダガIV            <stnpc>
+alias Mag_115-1 input /ma サンダガV             <stnpc>
+alias Mag_116-1 input /ma サンダジャ            <stnpc>
+alias Mag_117-1 input /ma サンダラ              <stnpc>
+alias Mag_118-1 input /ma サンダラII            <stnpc>
+alias Mag_119-1 input /ma サンダラIII           <stnpc>
+alias Mag_201-1 input /ma エンサンダー          <stpc>
+alias Mag_202-1 input /ma エンサンダーII        <stpc>
+alias Mag_301-1 input /ma 雷門の計              <stnpc>
+alias Mag_302-1 input /ma 雷門の計II            <stnpc>
+alias Mag_303-1 input /ma 疾雷の陣              <stpc>
+alias Mag_304-1 input /ma 疾雷の陣II            <stpc>
+alias Mag_401-1 input /ma 雷のスレノディ        <stnpc>
+alias Mag_402-1 input /ma 雷のスレノディII      <stnpc>
+alias Mag_403-1 input /ma 耐電カロル第一楽章    <stpc>
+alias Mag_404-1 input /ma 耐電カロル第二楽章    <stpc>
+alias Mag_501-1 input /ma バサンダ              <stpc>
+alias Mag_502-1 input /ma バサンダラ            <stpc>
+alias Mag_503-1 input /ma バポイズン            <stpc>
+alias Mag_504-1 input /ma バポイゾラ            <stpc>
+alias Mag_601-1 input /ma バウォタ              <stpc>
+alias Mag_701-1 input /ja サンダーショット      <stnpc>
+alias Mag_801-1 input /ja スルポール            <stpc>
+
+alias Mag_101-2 input /ma サンダー              <t>
+alias Mag_102-2 input /ma サンダーII            <t>
+alias Mag_103-2 input /ma サンダーIII           <t>
+alias Mag_104-2 input /ma サンダーIV            <t>
+alias Mag_105-2 input /ma サンダーV             <t>
+alias Mag_106-2 input /ma サンダーVI            <t>
+alias Mag_107-2 input /ma バースト              <t>
+alias Mag_108-2 input /ma バーストII            <t>
+alias Mag_111-2 input /ma サンダガ              <t>
+alias Mag_112-2 input /ma サンダガII            <t>
+alias Mag_113-2 input /ma サンダガIII           <t>
+alias Mag_114-2 input /ma サンダガIV            <t>
+alias Mag_115-2 input /ma サンダガV             <t>
+alias Mag_116-2 input /ma サンダジャ            <t>
+alias Mag_117-2 input /ma サンダラ              <t>
+alias Mag_118-2 input /ma サンダラII            <t>
+alias Mag_119-2 input /ma サンダラIII           <t>
+alias Mag_201-2 input /ma エンサンダー          <me>
+alias Mag_202-2 input /ma エンサンダーII        <me>
+alias Mag_301-2 input /ma 雷門の計              <t>
+alias Mag_302-2 input /ma 雷門の計II            <t>
+alias Mag_303-2 input /ma 疾雷の陣              <me>
+alias Mag_304-2 input /ma 疾雷の陣II            <me>
+alias Mag_401-2 input /ma 雷のスレノディ        <t>
+alias Mag_402-2 input /ma 雷のスレノディII      <t>
+alias Mag_403-2 input /ma 耐電カロル第一楽章    <me>
+alias Mag_404-2 input /ma 耐電カロル第二楽章    <me>
+alias Mag_501-2 input /ma バサンダ              <me>
+alias Mag_502-2 input /ma バサンダラ            <me>
+alias Mag_503-2 input /ma バポイズン            <me>
+alias Mag_504-2 input /ma バポイゾラ            <me>
+alias Mag_601-2 input /ma バウォタ              <me>
+alias Mag_701-2 input /ja サンダーショット      <t>
+alias Mag_801-2 input /ja スルポール            <me>
+
+alias Mag_101-3 input /ma サンダー              <lastst>
+alias Mag_102-3 input /ma サンダーII            <lastst>
+alias Mag_103-3 input /ma サンダーIII           <lastst>
+alias Mag_104-3 input /ma サンダーIV            <lastst>
+alias Mag_105-3 input /ma サンダーV             <lastst>
+alias Mag_106-3 input /ma サンダーVI            <lastst>
+alias Mag_107-3 input /ma バースト              <lastst>
+alias Mag_108-3 input /ma バーストII            <lastst>
+alias Mag_111-3 input /ma サンダガ              <lastst>
+alias Mag_112-3 input /ma サンダガII            <lastst>
+alias Mag_113-3 input /ma サンダガIII           <lastst>
+alias Mag_114-3 input /ma サンダガIV            <lastst>
+alias Mag_115-3 input /ma サンダガV             <lastst>
+alias Mag_116-3 input /ma サンダジャ            <lastst>
+alias Mag_117-3 input /ma サンダラ              <lastst>
+alias Mag_118-3 input /ma サンダラII            <lastst>
+alias Mag_119-3 input /ma サンダラIII           <lastst>
+alias Mag_301-3 input /ma 雷門の計              <lastst>
+alias Mag_302-3 input /ma 雷門の計II            <lastst>
+alias Mag_401-3 input /ma 雷のスレノディ        <lastst>
+alias Mag_402-3 input /ma 雷のスレノディII      <lastst>
+alias Mag_701-3 input /ja サンダーショット      <lastst>
+
+alias Mag_101-4 send @others /ma サンダー          <tid>
+alias Mag_102-4 send @others /ma サンダーII        <tid>
+alias Mag_103-4 send @others /ma サンダーIII       <tid>
+alias Mag_104-4 send @others /ma サンダーIV        <tid>
+alias Mag_105-4 send @others /ma サンダーV         <tid>
+alias Mag_106-4 send @others /ma サンダーVI        <tid>
+alias Mag_107-4 send @others /ma バースト          <tid>
+alias Mag_108-4 send @others /ma バーストII        <tid>
+alias Mag_111-4 send @others /ma サンダガ          <tid>
+alias Mag_112-4 send @others /ma サンダガII        <tid>
+alias Mag_113-4 send @others /ma サンダガIII       <tid>
+alias Mag_114-4 send @others /ma サンダガIV        <tid>
+alias Mag_115-4 send @others /ma サンダガV         <tid>
+alias Mag_116-4 send @others /ma サンダジャ        <tid>
+alias Mag_117-4 send @others /ma サンダラ          <tid>
+alias Mag_118-4 send @others /ma サンダラII        <tid>
+alias Mag_119-4 send @others /ma サンダラIII       <tid>
+alias Mag_301-4 send @others /ma 雷門の計          <tid>
+alias Mag_302-4 send @others /ma 雷門の計II        <tid>
+alias Mag_402-4 send @others /ma 雷のスレノディII  <tid>
+alias Mag_701-4 send @others /ja サンダーショット  <tid>
+
+--震天動地連携共通
+alias Mag_1000 input /ja 震天動地の章           <me>
+alias Mag_1001 input /ja 震天動地の章           <me>
+alias Mag_1002 gs c sc start 衝撃 ①;
+alias Mag_1003 gs c sc end 衝撃 ②;
+alias Mag_1004 gs c sc start 分解 ①;
+alias Mag_1005 gs c sc end 分解 ②;
+alias Mag_1006 ;
+
+--LV1震天動地連携定義
+alias Mag_1011-1 input /ma ブリザド             <stnpc>;
+alias Mag_1012-1 input /ma 雷門の計             <stnpc>;
+
+alias Mag_1011-2 input /ma ブリザド             <t>;
+alias Mag_1012-2 input /ma 雷門の計             <t>;
+
+alias Mag_1011-3 input /ma ブリザド             <lastst>;
+alias Mag_1012-3 input /ma 雷門の計             <lastst>;
+
+alias Mag_1011-4 send @others /ma ブリザド         <tid>;
+alias Mag_1012-4 send @others /ma 雷門の計         <tid>;
+
+--LV2震天動地連携定義
+alias Mag_1013-1 input /ma ブリザド             <stnpc>;
+alias Mag_1014-1 input /ma 水門の計             <stnpc>;
+
+alias Mag_1013-2 input /ma ブリザド             <t>;
+alias Mag_1014-2 input /ma 水門の計             <t>;
+
+alias Mag_1013-3 input /ma ブリザド             <lastst>;
+alias Mag_1014-3 input /ma 水門の計             <lastst>;
+
+alias Mag_1013-4 send @others /ma ブリザド         <tid>;
+alias Mag_1014-4 send @others /ma 水門の計         <tid>;
+
+--常用
+alias Mag_1021 Mag_1013-1
+alias Mag_1022 Mag_1004
+alias Mag_1023 Mag_1014-3
+alias Mag_1024 Mag_1005
+alias Mag_1025 ;
+alias Mag_1026 ;

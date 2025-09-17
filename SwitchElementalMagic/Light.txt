@@ -1,0 +1,86 @@
+input /echo ＋　光　＋
+alias Mag_301-1 input /ma 光門の計              <stnpc>
+alias Mag_302-1 input /ma 光門の計II            <stnpc>
+alias Mag_303-1 input /ma 極光の陣              <stpc>
+alias Mag_304-1 input /ma 極光の陣II            <stpc>
+alias Mag_401-1 input /ma 光のスレノディ        <stnpc>
+alias Mag_402-1 input /ma 光のスレノディII      <stnpc>
+alias Mag_403-1 input /ma 耐光カロル第一楽章    <stpc>
+alias Mag_404-1 input /ma 耐光カロル第二楽章    <stpc>
+alias Mag_501-1 ;
+alias Mag_502-1 ;
+alias Mag_503-1 input /ma バスリプル            <stpc>
+alias Mag_504-1 input /ma バスリプラ            <stpc>
+alias Mag_701-1 input /ja ライトショット        <stnpc>
+alias Mag_801-1 input /ja ルックス              <stpc>
+
+alias Mag_301-2 input /ma 光門の計              <t>
+alias Mag_302-2 input /ma 光門の計II            <t>
+alias Mag_303-2 input /ma 極光の陣              <me>
+alias Mag_304-2 input /ma 極光の陣II            <me>
+alias Mag_401-2 input /ma 光のスレノディ        <t>
+alias Mag_402-2 input /ma 光のスレノディII      <t>
+alias Mag_403-2 input /ma 耐光カロル第一楽章    <me>
+alias Mag_404-2 input /ma 耐光カロル第二楽章    <me>
+alias Mag_501-2 ;
+alias Mag_502-2 ;
+alias Mag_503-2 input /ma バスリプル            <me>
+alias Mag_504-2 input /ma バスリプラ            <me>
+alias Mag_701-2 input /ja ライトショット        <t>
+alias Mag_801-2 input /ja ルックス              <me>
+
+alias Mag_301-3 input /ma 光門の計              <lastst>
+alias Mag_302-3 input /ma 光門の計II            <lastst>
+alias Mag_401-3 input /ma 光のスレノディ        <lastst>
+alias Mag_402-3 input /ma 光のスレノディII      <lastst>
+alias Mag_701-3 input /ja ライトショット        <lastst>
+
+alias Mag_301-4 send @others /ma 光門の計          <tid>
+alias Mag_302-4 send @others /ma 光門の計II        <tid>
+alias Mag_401-4 send @others /ma 光のスレノディ    <tid>
+alias Mag_402-4 send @others /ma 光のスレノディII  <tid>
+alias Mag_701-4 send @others /ja ライトショット    <tid>
+
+--震天動地連携共通
+alias Mag_1000 input /ja 震天動地の章           <me>
+alias Mag_1001 input /ja 気炎万丈の章           <me>
+alias Mag_1002 gs c sc start 貫通 ①;
+alias Mag_1003 gs c sc end 貫通 ②;
+alias Mag_1004 gs c sc start 核熱 ①;
+alias Mag_1005 gs c sc end 核熱 ②;
+alias Mag_1006 gs c sc end 核熱 ③;
+
+--LV1震天動地連携定義
+alias Mag_1011-1 input /ma 闇門の計             <stnpc>;
+alias Mag_1012-1 input /ma 光門の計             <stnpc>;
+
+alias Mag_1011-2 input /ma 闇門の計             <t>;
+alias Mag_1012-2 input /ma 光門の計             <t>;
+
+alias Mag_1011-3 input /ma 闇門の計             <lastst>;
+alias Mag_1012-3 input /ma 光門の計             <lastst>;
+
+alias Mag_1011-4 send @others /ma 闇門の計         <tid>;
+alias Mag_1012-4 send @others /ma 光門の計         <tid>;
+
+
+--LV2震天動地連携定義
+alias Mag_1013-1 input /ma ファイア               <stnpc>;
+alias Mag_1014-1 input /ma 雷門の計               <stnpc>;
+
+alias Mag_1013-2 input /ma ファイア               <t>;
+alias Mag_1014-2 input /ma 雷門の計               <t>;
+
+alias Mag_1013-3 input /ma ファイア               <lastst>;
+alias Mag_1014-3 input /ma 雷門の計               <lastst>;
+
+alias Mag_1013-4 send @others /ma ファイア           <tid>;
+alias Mag_1014-4 send @others /ma 雷門の計           <tid>;
+
+--常用
+alias Mag_1021 Mag_1011-1
+alias Mag_1022 Mag_1002
+alias Mag_1023 Mag_1012-3
+alias Mag_1024 Mag_1003
+alias Mag_1025 Mag_1014-3
+alias Mag_1026 Mag_1006
