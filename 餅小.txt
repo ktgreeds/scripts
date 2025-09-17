@@ -1,0 +1,14 @@
+alias w1 wait 3;
+alias u1 input /item ¬•ïy–İ“Sz <me>;  w1;
+
+alias run1 u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;
+alias run2 run1;run1;run1;run1;run1;run1;run1;run1;
+
+alias runstop2 alias u1 /;alias w1 /;alias run1 /;alias run2 /;
+alias runstop input /echo #### ’†’f ####;runstop2
+ 
+bind ^escape runstop
+ 
+input /echo #### ŠJn@i’†’fFCtrl+ESC or /console runstopj@####
+run2
+input /echo #### I—¹ ####

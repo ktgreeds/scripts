@@ -1,0 +1,7 @@
+input /ma インビジ <me>;
+input /ma 遁甲の術:壱 <me>;
+input /ja スペクトラルジグ <me>;
+wait 1
+send @others /ma インビジ <me>;
+send @others /ma 遁甲の術:壱 <me>;
+send @others /ja スペクトラルジグ <me>;

@@ -1,0 +1,8 @@
+input /ma スニーク <me>;
+input /ma 物見の術:壱 <me>;
+input /ja スペクトラルジグ <me>;
+
+wait 1
+send @others /ma スニーク <me>;
+send @others /ma 物見の術:壱 <me>;
+send @others /ja スペクトラルジグ <me>;
