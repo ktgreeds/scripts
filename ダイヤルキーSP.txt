@@ -1,0 +1,12 @@
+alias u1 input /targetnpc;tradenpc 1 ダイヤルキー#SP;wait 12;
+
+alias run1 u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;u1;
+alias run2 run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;run1;
+alias runstop2 alias u1 /;alias w1 /;alias u2 /;alias u3 /;alias run1 /;alias run2 /;
+alias runstop input /echo #### 中断 ####;runstop2
+ 
+bind ^escape runstop
+ 
+input /echo #### 開始　（中断：Ctrl+ESC or /console runstop）　####
+run2
+input /echo #### 終了 ####
